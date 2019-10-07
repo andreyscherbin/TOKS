@@ -1,0 +1,9 @@
+c:\users\марина\documents\visual studio 2010\Projects\toks_1\toks_1\bin\Debug\toks_1.exe
+c:\users\марина\documents\visual studio 2010\Projects\toks_1\toks_1\bin\Debug\toks_1.pdb
+c:\users\марина\documents\visual studio 2010\Projects\toks_1\toks_1\obj\x86\Debug\toks_1.exe
+c:\users\марина\documents\visual studio 2010\Projects\toks_1\toks_1\obj\x86\Debug\toks_1.pdb
+C:\Users\Андрец\Downloads\TOKS-master\toks_1\toks_1\obj\x86\Debug\toks_1.exe
+C:\Users\Андрец\Downloads\TOKS-master\toks_1\toks_1\obj\x86\Debug\toks_1.pdb
+C:\Users\Андрец\Downloads\TOKS-master\toks_1\toks_1\bin\Debug\toks_1.exe
+C:\Users\Андрец\Downloads\TOKS-master\toks_1\toks_1\bin\Debug\toks_1.pdb
+C:\Users\Андрец\Downloads\TOKS-master\toks_1\toks_1\obj\x86\Debug\toks_1.csprojResolveAssemblyReference.cache
